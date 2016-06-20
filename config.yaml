@@ -1,0 +1,7 @@
+---
+name: app1314
+version: 1
+handle:
+
+- errordoc:  503 /500/503.html
+- errordoc:  404 /index.php

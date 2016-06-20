@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Disallow: /*
+Disallow: /Admin
+Disallow: /admin
+Disallow: /www/
+Disallow: /funny/
