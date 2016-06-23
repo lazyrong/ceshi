@@ -565,7 +565,7 @@ $app_new_list = array('');
 $app_recommend_list = array('xbb','ysqm','gdmz','lyb2','sjz','aln','hsjh','alxz','mzhy','lym');
 
 $app_index_list = array('fangyan.php','xbb','sjhm','xsd','iq','eq','xlnl','aln','mzjz','qqhy','lol','qqjz','mzhy','hsjh','alxz','dyxx','bzl','bdfs','clys','ygd','dwsj','yjzq','jxrg','sch','hfxx','dszs','xsm','fym','msg','zhz','lyb2','jggj','xmyf','xzyf','tygn','cygd','ywmz','ysqm','hmb','hjh','zan','fcsj','xbz','smm','smzy','hyyz','ngcs','wlqt','adj','lyb','ajg','yyzs','zdsj','thzs','wlzy','qssf','zhh','gdmz','ygzs','sjz','esn','hdj','qssy','rpz','smb','cwz','mxzp','zmd');
-$app_top_list = array('gdmz','ysqm','lyb2','xsm','lym','cygd','zhz','iq','qssy');
+$app_top_list = array('gdmz','ysqm','lyb2','xsm','lym','cygd','zhz','iq');//,'qssy' 8个
 $app_hot_list = array('xsd','mzjz','qqhy','lol','qqjz','mzhy','gdmz','fcsj','xsm','lyb2','ysqm','qssy','iq','xlnl','zdsj','esn','hdj','zan','lym','xzyf','rpz','sch','eq','cygd','lyb','yqzs','ygd');
 $app_love_list = array('hsjh','ygd','xsm','yjzq','lym','xzyf','lyb2','xmyf','zan','adj','lyb','ajg','yyzs','aln','thzs','cwz','mxzp');
 $app_xingge_list = array('jxrg','hfxx','dszs','lym','msg','zhz','tygn','cygd','hmb','hjh','fcsj','xbz','smm','smzy','hyyz','sjz','esn','hdj','qssy','smb');
